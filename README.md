@@ -5,7 +5,8 @@
 # Utillisation
 
 ``remplacer par vos propre database dans le fichier ./database``
-``format accepter: txt / csv / sql``
+####
+``format pris en compte: txt / csv / sql``
 
 
 # Objectif de stars
