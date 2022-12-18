@@ -14,7 +14,7 @@
 
 # Exemple
 
-[Screenshot]([https://prnt.sc/g1QMyRp05sdx](https://cdn.discordapp.com/attachments/1053962963888902196/1054002408138735646/image.png))
+![Screenshot]([https://prnt.sc/g1QMyRp05sdx]
 
 # Credits
 
