@@ -12,6 +12,10 @@
 ####
 🔓 30 Stars : **Je Rends Met En Privé Le Github Et J'autorise la revente, le skidding, etc..**
 
+# Exemple
+
+![Screenshot](https://prnt.sc/g1QMyRp05sdx)
+
 # Credits
 
 **Fait par xZin0vich#0105**
