@@ -5,8 +5,11 @@
 # Objectif de stars
 
 🎈 10 Stars : **Refonte De L'embed, version bot discord**
+####
 🎄 15 Stars : **Drop De Database Pour Le Searcher**
+####
 💎 20 Stars : **Version Site (Un Panel De Search En Site)**
+####
 🔓 30 Stars : **Je Rends Met En Privé Le Github Et J'autorise la revente, le skidding, etc..**
 
 # Credits
