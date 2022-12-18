@@ -4,7 +4,7 @@
 
 # Utillisation
 
-``remplacer par vos propre database dans le fichier ./database``
+``remplacer par vos propre database dans le dossier ./database``
 ####
 ``format pris en compte: txt / csv / sql``
 
